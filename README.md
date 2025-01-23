@@ -83,19 +83,30 @@ elemanı giriniz
 
 elemanı giriniz
 50 Dizi : 10 20 30 40 50
-
-       İşlemler
+```
+####         İşlemler
 
 Dizinin Elemanlarını Göster
+
 Dizinin Elemanlarını Topla
+
 Dizinin Elemanlarını Çarp
+
 Dizinin Elemanlarını Ortalama
+
 Dizinin Elemanlarını Sırala
+
 Dizinin Elemanlarını Ters Çevir
+
 Dizinin Elemanlarını Değiştir
+
 Dizinin Elemanlarını Sıfırla
+
 Dizinin Elemanlarını Sil
+
 Dizinin Elemanlarını Ekle
+
 Dizinin Elemanlarını Arama Seçiminizi yapınız
 
-```
+
+
